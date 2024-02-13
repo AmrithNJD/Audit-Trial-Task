@@ -39,7 +39,7 @@ public class Check {
     }
     @GetMapping("/")
     public String checj(){
-        return "done";
+        return "don";
     }
     @GetMapping("/webclienttesting")
     public String web()
